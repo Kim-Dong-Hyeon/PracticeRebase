@@ -13,6 +13,7 @@
 		76F05F022C591BE50071F89D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 76F05F012C591BE50071F89D /* Base */; };
 		76F05F042C591BE60071F89D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76F05F032C591BE60071F89D /* Assets.xcassets */; };
 		76F05F072C591BE60071F89D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 76F05F062C591BE60071F89D /* Base */; };
+		DD34C95D2C591D5D00CFECC9 /* kyh.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD34C95C2C591D5D00CFECC9 /* kyh.swift */; };
 		76F05F0F2C591E5A0071F89D /* MessageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F05F0E2C591E5A0071F89D /* MessageController.swift */; };
 /* End PBXBuildFile section */
 
@@ -141,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD34C95D2C591D5D00CFECC9 /* kyh.swift in Sources */,
 				76F05EFF2C591BE50071F89D /* ViewController.swift in Sources */,
 				76F05EFB2C591BE50071F89D /* AppDelegate.swift in Sources */,
 				76F05EFD2C591BE50071F89D /* SceneDelegate.swift in Sources */,
