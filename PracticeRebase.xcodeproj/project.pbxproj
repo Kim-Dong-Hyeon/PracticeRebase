@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FCD4E812C5923560069C295 /* cg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FCD4E802C5923560069C295 /* cg.swift */; };
 		76F05EFB2C591BE50071F89D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F05EFA2C591BE50071F89D /* AppDelegate.swift */; };
 		76F05EFD2C591BE50071F89D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F05EFC2C591BE50071F89D /* SceneDelegate.swift */; };
 		76F05EFF2C591BE50071F89D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F05EFE2C591BE50071F89D /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4FCD4E802C5923560069C295 /* cg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cg.swift; sourceTree = "<group>"; };
 		76F05EF72C591BE50071F89D /* PracticeRebase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeRebase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76F05EFA2C591BE50071F89D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		76F05EFC2C591BE50071F89D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				76F05EFC2C591BE50071F89D /* SceneDelegate.swift */,
 				76F05EFE2C591BE50071F89D /* ViewController.swift */,
 				76F05F0E2C591E5A0071F89D /* MessageController.swift */,
+				4FCD4E802C5923560069C295 /* cg.swift */,
 				76F05F002C591BE50071F89D /* Main.storyboard */,
 				76F05F032C591BE60071F89D /* Assets.xcassets */,
 				76F05F052C591BE60071F89D /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			files = (
 				DD34C95D2C591D5D00CFECC9 /* kyh.swift in Sources */,
 				76F05EFF2C591BE50071F89D /* ViewController.swift in Sources */,
+				4FCD4E812C5923560069C295 /* cg.swift in Sources */,
 				76F05EFB2C591BE50071F89D /* AppDelegate.swift in Sources */,
 				76F05EFD2C591BE50071F89D /* SceneDelegate.swift in Sources */,
 				76F05F0F2C591E5A0071F89D /* MessageController.swift in Sources */,
