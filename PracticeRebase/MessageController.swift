@@ -9,4 +9,5 @@ import UIKit
 
 class MessageController: UIViewController {
   var a: Int = 23
+  let b: Bool = false
 }
